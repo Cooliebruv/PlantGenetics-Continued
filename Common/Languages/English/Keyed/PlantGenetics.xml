@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <!-- 1.4 legacy -->
+    <PlantWillDieIn>This will die in {0} days</PlantWillDieIn>
+
     <DesignatorClonePlant>Clone plant</DesignatorClonePlant>
     <DesignatorClonePlantDesc>Clone this plant while keeping its DNA so it can be replanted somewhere else.</DesignatorClonePlantDesc>
     <ClippingSuccess>Successfully added a clipping to the potting bench.</ClippingSuccess>
